@@ -3,3 +3,7 @@ Nothing special here at all.
 This is the first creation.
 It has not even been integrated into the project/repository yet.
 Making a second change in the Main stream.  Still trying to get bubbles.
+
+Making a change in branch cr02, this should cause a merge issue when I 
+merge these changes into main and then try to rebase onto cr01 because
+I intend to merge this cr02 onto main BEFORE I merge cr01 onto main.
